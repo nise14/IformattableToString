@@ -1,0 +1,14 @@
+C:\Repository\IFormateableCustomToString\FormatDemo\bin\Debug\net8.0\FormatDemo.exe
+C:\Repository\IFormateableCustomToString\FormatDemo\bin\Debug\net8.0\FormatDemo.deps.json
+C:\Repository\IFormateableCustomToString\FormatDemo\bin\Debug\net8.0\FormatDemo.runtimeconfig.json
+C:\Repository\IFormateableCustomToString\FormatDemo\bin\Debug\net8.0\FormatDemo.dll
+C:\Repository\IFormateableCustomToString\FormatDemo\bin\Debug\net8.0\FormatDemo.pdb
+C:\Repository\IFormateableCustomToString\FormatDemo\obj\Debug\net8.0\FormatDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\IFormateableCustomToString\FormatDemo\obj\Debug\net8.0\FormatDemo.AssemblyInfoInputs.cache
+C:\Repository\IFormateableCustomToString\FormatDemo\obj\Debug\net8.0\FormatDemo.AssemblyInfo.cs
+C:\Repository\IFormateableCustomToString\FormatDemo\obj\Debug\net8.0\FormatDemo.csproj.CoreCompileInputs.cache
+C:\Repository\IFormateableCustomToString\FormatDemo\obj\Debug\net8.0\FormatDemo.dll
+C:\Repository\IFormateableCustomToString\FormatDemo\obj\Debug\net8.0\refint\FormatDemo.dll
+C:\Repository\IFormateableCustomToString\FormatDemo\obj\Debug\net8.0\FormatDemo.pdb
+C:\Repository\IFormateableCustomToString\FormatDemo\obj\Debug\net8.0\FormatDemo.genruntimeconfig.cache
+C:\Repository\IFormateableCustomToString\FormatDemo\obj\Debug\net8.0\ref\FormatDemo.dll
